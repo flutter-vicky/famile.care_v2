@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_photo_white_24dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_photo_white_24dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_done_white_24dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_done_white_24dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_done_all_white_24dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_done_all_white_24dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_add_a_photo_white_24dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_arrow_back_white_24dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_photo_library_gray_100dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_photo_library_gray_100dp.png"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-ldpi-v4/ic_add_a_photo_gray_100dp.png",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/86a63d09e09fb6cd08bbe6249fe09a52/jetified-FishBun-0.11.2/res/drawable-ldpi-v4/ic_add_a_photo_gray_100dp.png"
+    }
+]

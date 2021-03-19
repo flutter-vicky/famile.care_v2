@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/simple_connectivity/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/simple_connectivity/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/simple_connectivity/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/simple_connectivity/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

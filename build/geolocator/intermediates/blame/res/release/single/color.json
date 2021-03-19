@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/bae708e3427040a589e268fd601a9ba2/play-services-base-17.2.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/bae708e3427040a589e268fd601a9ba2/play-services-base-17.2.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/geolocator/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/bae708e3427040a589e268fd601a9ba2/play-services-base-17.2.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

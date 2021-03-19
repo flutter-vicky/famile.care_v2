@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/3342845ab9b5434dfc166c024c52b471/core-1.2.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/anim/abc_tooltip_enter.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">675426621953-llh90ko9hrqpbv2j4voa5t537rc7g0d4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">675426621953</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGj_eFc8IqiPSn5b9bHyLqsAi6bPjLta8</string>
+    <string name="google_app_id" translatable="false">1:675426621953:android:19402571946dffc06f7e00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGj_eFc8IqiPSn5b9bHyLqsAi6bPjLta8</string>
+    <string name="google_storage_bucket" translatable="false">familecare.appspot.com</string>
+    <string name="project_id" translatable="false">familecare</string>
+</resources>

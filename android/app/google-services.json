@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675426621953",
+    "project_id": "familecare",
+    "storage_bucket": "familecare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675426621953:android:19402571946dffc06f7e00",
+        "android_client_info": {
+          "package_name": "com.example.famile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675426621953-llh90ko9hrqpbv2j4voa5t537rc7g0d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGj_eFc8IqiPSn5b9bHyLqsAi6bPjLta8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675426621953-llh90ko9hrqpbv2j4voa5t537rc7g0d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

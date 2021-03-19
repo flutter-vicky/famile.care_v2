@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/cec32cd82a8a766b147872418afb7fcd/material-1.0.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/b011d4b5d2ec7eea4ff52e346e1e6e65/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/semiqolon/Downloads/famile.care_new/famile.care-master/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/semiqolon/.gradle/caches/transforms-2/files-2.1/5ad71b1970b3999aa8449b0f3cee4a8c/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]
